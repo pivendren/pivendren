@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything tech!
 - 🤔 I’m looking for help with Web client dev
 - 💬 Ask me about Azure and .NET
-- 🐤 I'm on Twitter as <a href="https://twitter.com/ErrorNaik" target="_blank">@ErrorNaik</a> and Twitch as <a href="https://www.twitch.tv/errornaik" target="_blank">@ErrorNaik</a>
+- 🐤 I'm on Twitter as [@ErrorNaik](https://twitter.com/ErrorNaik) and Twitch as [@ErrorNaik](https://www.twitch.tv/errornaik)
 - 😄 Pronouns: he/him/his
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pivendren.pivendren)
