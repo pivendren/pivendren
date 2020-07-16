@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🐤 I'm on Twitter as [@ErrorNaik](https://twitter.com/ErrorNaik) and Twitch as [@ErrorNaik](https://www.twitch.tv/errornaik)
 - 😄 Pronouns: he/him/his
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pivendren.pivendren)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=pivendren.pivendren) -->
